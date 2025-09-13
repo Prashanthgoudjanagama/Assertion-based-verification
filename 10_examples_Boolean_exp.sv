@@ -63,8 +63,6 @@ module examples_Boolean_exp;
     
     
     initial begin
-        $dumpfile("dump.vcd");
-        $dumpvars;
         # 150 $finish;
     end
   
