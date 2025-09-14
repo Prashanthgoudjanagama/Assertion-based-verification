@@ -15,6 +15,7 @@
 ### 1. `Immediate Assertions`:
 
 `Evaluation Time:` Current simulation time (like procedural code)
+
 `Characteristics:`
 1. Evaluated immediately when encountered in procedural code
 2. Multiple assertions can lead to glitches if not properly handled
@@ -353,5 +354,6 @@ seq B :           _|‾‾‾|__
 
 
 ```
+
 
 
